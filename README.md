@@ -70,16 +70,16 @@ This project was developed as part of BCA coursework to demonstrate:
 ## Screenshots
 
 ### Main Interface
-![Main Interface](https://raw.githubusercontent.com/noelmulberry7-hash/Automatic-Billing-System/refs/heads/main/Screenshot%202026-02-12%20224030.png)
+![Main Interface](https://github.com/anwingitto/AUTOMATIC-BILLING-SYSTEM-USING-JAVA/blob/main/java%20project3.jpeg)
 
 ### Generated Bill
-![Generated Bill](https://raw.githubusercontent.com/noelmulberry7-hash/Automatic-Billing-System/refs/heads/main/Screenshot%202026-02-12%20224138.png)
+![Generated Bill](https://github.com/anwingitto/AUTOMATIC-BILLING-SYSTEM-USING-JAVA/blob/main/java%20project2.jpeg)
 
 ### Saved Bills
-![Generated Bill](https://raw.githubusercontent.com/noelmulberry7-hash/Automatic-Billing-System/refs/heads/main/Screenshot%202026-02-12%20224232.png)
+![Generated Bill](https://github.com/anwingitto/AUTOMATIC-BILLING-SYSTEM-USING-JAVA/blob/main/java%20project1.jpeg)
 
 ### Database View
-![Database View](https://raw.githubusercontent.com/noelmulberry7-hash/Automatic-Billing-System/refs/heads/main/Screenshot%202026-02-12%20224302.png)
+![Database View](https://github.com/anwingitto/AUTOMATIC-BILLING-SYSTEM-USING-JAVA/blob/main/java%20project4.jpeg)
 
 ## Demo Video
 
